@@ -9,6 +9,6 @@ end
 
 get('/replacement') do
   @old = params.fetch('sentence')
-  @new = params.fetch('sentence').find_and_replace('word','replacement')
+  @new = params.fetch('sentence').find_and_replace(params.fetch('word'),params.fetch('replacement'))
   erb(:replacement)
 end

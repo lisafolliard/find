@@ -3,7 +3,7 @@ class String
     sentence = self
 
     if (sentence.include?(word))
-      return sentence.gsub! word, replacement
+      return sentence.gsub word, replacement
     end
   end
 end
