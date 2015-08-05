@@ -10,6 +10,7 @@ describe('the find and replace path', {:type => :feature}) do
     fill_in('word', :with => 'rock')
     fill_in('replacement', :with => 'ham')
     click_button('Replace Now!')
+    expect(page).to have_content('returns true if rock is the rock and rock is the argument')
     expect(page).to have_content('returns true if ham is the ham and ham is the argument')
   end
 end
