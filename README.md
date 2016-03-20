@@ -1,6 +1,6 @@
 # _Find and Replace_
 
-##### _An app that takes in a string and calculates scrabble word score, 8/5/2015_
+##### _An application that takes in a string and calculates scrabble word score, 8/5/2015_
 
 #### By _**Lisa Folliard and Austin Kincaid**_
 
