@@ -17,7 +17,7 @@ Run the following commands in your project folder:
 
 Go to localhost:4567 in your web browser to open application
 
-_You might want to use Sinatra, rspec, and capybara._
+_You might want to use Sinatra, RSpec, and Capybara_
 
 ## Technologies Used
 
