@@ -1,12 +1,10 @@
 # _Find and Replace_
 
-##### _An application that takes in a string and calculates scrabble word score, 8/5/2015_
-
 #### By _**Lisa Folliard and Austin Kincaid**_
 
 ## Description
 
-_This simple app takes three strings. The first is a large string (usually). The second is the string to find within the first large string. The final string provided is the string to replace the second string with within the first string. String, string, string._
+_This simple application takes three strings. The first is a large string (usually). The second is a string to find within the first large string. The third is a string with replacement text. The final output shows the original string and the new string._
 
 ## Setup
 
