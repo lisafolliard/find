@@ -10,7 +10,9 @@ _This simple app takes three strings. The first is a large string (usually). The
 
 ## Setup
 
-* _Install and Run!
+* Clone this repository to your local system
+
+* Go to localhost:4567 in your web browser to open application
 
 _You might want to use Sinatra, rspec, and capybara._
 
